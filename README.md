@@ -2,7 +2,6 @@
 
 A simple, responsive website for a fictional café, built and debugged with the help of an AI coding assistant.
 
-**Live site:** _add your GitHub Pages link here once deployed_
 
 ## What this project demonstrates
  This project demonstrates that I can use an AI assistant to build, troubleshoot, and ship a working website by:
