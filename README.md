@@ -5,8 +5,7 @@ A simple, responsive website for a fictional café, built and debugged with the 
 **Live site:** _add your GitHub Pages link here once deployed_
 
 ## What this project demonstrates
-
-I don't have a coding background — I'm from a commerce background. This project shows that I can use an AI assistant to build, troubleshoot, and ship a working website by:
+ This project demonstrates that I can use an AI assistant to build, troubleshoot, and ship a working website by:
 
 - Writing clear, structured prompts to diagnose problems in existing code
 - Reviewing AI-suggested fixes before applying them (not just accepting output blindly)
@@ -21,8 +20,8 @@ The original file had two bugs:
 - A malformed CSS `url()` (missing a closing parenthesis) that stopped the background image from loading.
 - A mismatch between a CSS class name in the HTML (`menu-items`) and the one referenced in the JavaScript (`menu-item`), which broke the "Our Menu" toggle button.
 
-**2. Used an AI assistant to analyze the code.**
-Prompted it to review the file and report all syntax and functional errors, grouped by severity and type, rather than just asking "what's wrong with this."
+**2. Used an AI assistant to analyse the code.**
+Prompted it to review the file and report all  functional errors, grouped by severity and type, rather than just asking "what's wrong with this."
 
 **3. Reviewed the AI's fixes and applied them.**
 Compared the original and corrected code side by side to understand exactly what changed and why it fixed the problem, instead of just accepting a rewritten file.
@@ -37,7 +36,7 @@ Compared the original and corrected code side by side to understand exactly what
 
 - `index.html` — the complete site (HTML, CSS, and JavaScript in one file)
 
-## What I'd do next
+## Further progress I have made
 
 - Add real menu pricing and a photo gallery
 - Swap the placeholder contact details for a real booking form
